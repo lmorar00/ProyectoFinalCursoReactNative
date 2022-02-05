@@ -1,0 +1,3 @@
+export const ADD_TRAINER = 'ADD_TRAINER';
+export const REMOVE_TRAINER = 'REMOVE_TRAINER';
+export const INITIALIZE_ITEM = 'INITIALIZE_ITEM';
